@@ -4,9 +4,6 @@
 # O programa deve imprimir na tela tanto o diâmetro quanto o comprimento da circunferência.
 
 #ENTRADA DE DADOS
-from tkinter import N
-
-
 raio = float(input("digite o valor do raio: "))
 
 #PROCESSAMENTO DE DADOS
@@ -16,3 +13,4 @@ comprimento = diametro *3.14
 #SAÍDA DE DADOS
 
 print ("O valor do diametro é:",diametro, " e o valor da circunferência é:",comprimento)
+
