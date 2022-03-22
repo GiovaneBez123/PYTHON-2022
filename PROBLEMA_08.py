@@ -6,6 +6,6 @@ valor2 = float(input("digite um numero2:"))
 valor3 = float(input("digite um numero3:"))
 valor4 = float(input("digite um numero4:"))
 
-calculo = (valor1 + valor2 + valor3 + valor4)/10
+mediaP = (valor1 + valor2 + valor3 + valor4)/10
 
-print("o valor da média é:",calculo)
+print("o valor da média é:",mediaP)
